@@ -4,4 +4,4 @@ Freelance site for client on UpWork. Built using PHP for working contact form, a
 
 [Site deployed on my domain](https://riley.gg/upwork-2/)
 
-![Blargin Homes landing page][https://i.imgur.com/yta5tpa.png]
+![Blargin Homes landing page](https://i.imgur.com/yta5tpa.png)
